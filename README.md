@@ -1,5 +1,5 @@
 # ChatGPT 中文版：国内直连入口（支持GPT-4o绘图，GPT-4o，GPT-o3和o4-mini，无需翻墙）【5月最新更新】
- 
+  
  
 本文提供全面的 **[ChatGPT 中文版](https://snakegpt.chat)使用指南**，推荐国内镜像网站，支持GPT-4和GPT-3.5，无需翻墙。了解如何快速使用 **[ChatGPT 中文版](https://snakegpt.chat)**，提升工作效率。  
 
